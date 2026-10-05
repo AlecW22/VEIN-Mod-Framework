@@ -1,0 +1,16 @@
+{
+  "$schema": "../../Schemas/mod.schema.json",
+  "id": "example.mod",
+  "name": "Example Mod",
+  "author": "Community",
+  "version": "0.1.0",
+  "description": "A metadata-only example mod manifest.",
+  "gameVersion": "unknown",
+  "frameworkVersion": "0.1.0",
+  "dependencies": [],
+  "optionalDependencies": [],
+  "loadBefore": [],
+  "loadAfter": [],
+  "conflicts": [],
+  "entryPoint": null
+}
